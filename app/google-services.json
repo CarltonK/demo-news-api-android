@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600301900220",
+    "firebase_url": "https://the-informant-2ce48.firebaseio.com",
+    "project_id": "the-informant-2ce48",
+    "storage_bucket": "the-informant-2ce48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600301900220:android:f2cb941240cc9029",
+        "android_client_info": {
+          "package_name": "com.example.markcarlton.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600301900220-bu48ajr1f5259d5tn5l3lbgb6agpg4ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLbTEXR52rL4uEL3zRtNorauYY7K5zvqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
